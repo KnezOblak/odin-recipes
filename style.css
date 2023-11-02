@@ -1,0 +1,43 @@
+* {
+    background-color: rgb(151, 96, 74);
+    box-sizing: border-box;
+    color: white;
+}
+
+.link {
+    font-size: 24px;
+}
+
+.main-heading {
+    font-size: 50px;
+}
+
+h1 {
+    color: white;
+}
+
+.content {
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+}
+
+.list-container {
+    text-align: center;
+}
+
+.ingredients {
+    display: inline-block;
+    text-align: left;
+}
+
+.ol-center {
+    text-align: center;
+}
+
+.steps {
+    text-align: left;
+    display: inline-block;
+}
